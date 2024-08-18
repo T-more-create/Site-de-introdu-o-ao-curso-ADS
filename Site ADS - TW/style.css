@@ -1,0 +1,334 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #d8cbbc
+
+}
+
+
+
+.apresentacao{
+    display: flex;
+    align-items: center;
+    margin: 7% 7%;
+   
+
+}
+
+.apresentacao_texto{
+    display:inline-block;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    text-align:justify;
+    color: #21232a;
+    display: flex;
+    margin: 7% 0%;
+    
+    
+
+}
+
+.apresentacao_conteudo{
+    display: flex;
+    flex-direction: column;
+    gap: 40x;
+    width: 15px;
+    margin: 0% 0%;
+}
+
+
+
+strong{
+    color: #4a574a;
+    font-size: 20px;
+
+}
+
+div{
+    width: 500px;
+    height: 50px;
+
+
+}
+
+img{
+    border: 1px solid #d8cbbc;
+    width: 100%;
+    margin: 0% 0%;
+
+}
+
+.imagem_2{
+    width: 90px; /* tamanho */
+    
+    float: right; /*ficar do lado*/
+
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 0px 0px 1000px;
+    max-width: 186px;
+
+
+}
+.imagem_borda{
+    border: 1px solid #d8cbbc;
+ 
+   
+}
+
+.cabecalho{
+    display: flex;
+    margin: 0% 4050%;
+   
+    width: 250px; 
+    text-align: center; 
+    border-radius: 16px;
+    font-size: 20px;
+    padding: 18px 0; 
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+
+    border: transparent thin solid;
+    
+}
+
+.cabecalho_menu_ancora{
+    display: block;
+    margin: 0% 0%;
+    color: #d8cbbc;
+    background-color: #4a574a; 
+    width: 250px; 
+    border-radius: 160px;
+    font-size: 20px;
+    padding: 18px 0; 
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+   
+    
+    border: transparent thin solid;
+    
+}
+
+.cabecalho_menu_ancora_corpo{
+    display: block;
+    margin: 7% 0%;
+    color: #d8cbbc;
+    background-color: #4a574a; 
+    width: 250px; 
+    border-radius: 160px;
+    font-size: 20px;
+    padding: 18px 0; 
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+
+    border: transparent thin solid;
+
+}
+
+.cabecalho_menu_ancora_disciplina{
+    display: block;
+    margin: 7% 0%;
+    color: #d8cbbc;
+    background-color: #4a574a; 
+    width: 250px; 
+    border-radius: 160px;
+    font-size: 20px;
+    padding: 18px 0; 
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+
+    border: transparent thin solid;
+
+}
+
+
+.cabecalho_menu_ancora_projetos{
+    display: block;
+    margin: 7% 0%;
+    color: #d8cbbc;
+    background-color: #4a574a; 
+    width: 250px; 
+    border-radius: 160px;
+    font-size: 20px;
+    padding: 18px 0; 
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+
+    border: transparent thin solid;
+
+}
+
+.cabecalho_menu_ancora_referencias{
+    display: block;
+    margin: 7% 0%;
+    color: #d8cbbc;
+    background-color: #4a574a; 
+    width: 250px; 
+    border-radius: 160px;
+    font-size: 20px;
+    padding: 18px 0; 
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+
+    border: transparent thin solid;
+
+}
+
+.disciplina_texto{
+    display:inline-block;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    text-align:justify;
+    color: #21232a;
+    display: flex;
+    margin: 7% 0%;
+    
+
+
+}
+
+
+.disciplima_menu{
+    display: block;
+    margin: 3% 6%;
+    color: #d8cbbc;
+    
+    border-radius: 160px;
+    
+    font-size: 20px;
+    padding: 18px 0; 
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    border: transparent thin solid;
+ 
+
+
+}
+
+.disciplina_menu_1semestre{
+    color: #4a574a;
+    text-decoration: none;
+    margin: 0% 2%;
+}
+
+.disciplina_menu_2semestre{
+    color: #4a574a;
+    text-decoration: none;
+    margin: 0% 2%;
+}
+
+.disciplina_menu_3semestre{
+    color: #4a574a;
+    text-decoration: none;
+    margin: 0% 2%;
+}
+
+.disciplina_menu_4semestre{
+    color: #4a574a;
+    text-decoration: none;
+    margin: 0% 2%;
+}
+
+.disciplina_menu_5semestre{
+    color: #4a574a;
+    text-decoration: none;
+    margin: 0% 2%;
+}
+
+.disciplina_menu_optativas{
+    color: #4a574a;
+    text-decoration: none;
+    margin: 0% 2%;
+}
+
+
+
+
+.apresentacao_2{
+    
+        display: flex;
+        align-items: center;
+        margin: 0% 7%;
+       
+    
+    
+
+}
+
+
+
+
+.apresentacao_conteudo_2{
+   
+        display: flex;
+        flex-direction: column;
+        gap: 40x;
+        width: 15px;
+        margin: 0% 0%;
+    
+}
+
+.img_2{
+    width: 500px;
+    height: 10px;
+
+}
+
+.img_3{
+    
+    width: 100%;
+    margin: -7% 0%;
+
+}
+
+.referencias_menu{ 
+    text-align: center;
+    display: flex;
+    margin: 0% 0%;
+    width: 250px; 
+    text-align: center; 
+    border-radius: 16px;
+    font-size: 20px;
+    padding: 18px 0; 
+    text-decoration: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    border: transparent thin solid;
+    
+    
+}
+
+.projeto{
+
+    color:#214b5c
+
+
+}
+
+.projeto_2{
+
+    color:#833b2c
+
+
+}
+
+
+.projeto_3{
+
+    color:#4a574a
+
+
+}
